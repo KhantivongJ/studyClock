@@ -8,7 +8,8 @@ Users can set a timer and choose break intervals for studying. <br>
 ![image](https://github.com/KhantivongJ/studyClock/assets/68672801/d695e203-b199-4186-b626-a392a8037c25)
 
 • Entry boxes allow for hour, minute, and second keyboard input <br>
-• Scales to the right of each entry box can be used to adjust time up to a maximum of 23 HRS 59 MINS 59 SECS <br>
+• Scales to the right of each entry box can be used to adjust time up to a maximum of <br>
+23 HRS 59 MINS 59 SECS 
 ![image](https://github.com/KhantivongJ/studyClock/assets/68672801/7836a259-cbf0-43f1-b99b-da486589d065)
 
 • Radio buttons allow for pre-determined break intervals or none at all <br>
